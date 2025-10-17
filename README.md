@@ -1,4 +1,4 @@
-# 🧩 Proyecto | Escape Room A
+# 🧩 Mini-Proyecto | Escape Room A
 
 ## 🕹️ Escape Room A
 
